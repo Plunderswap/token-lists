@@ -16,7 +16,7 @@
       "address": "0x1fD09F6701a1852132A649fe9D07F2A3b991eCfA",
       "chainId": 32769,
       "decimals": 6,
-      "logoURI": "images/0x1fD09F6701a1852132A649fe9D07F2A3b991eCfA.svg"
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x1fD09F6701a1852132A649fe9D07F2A3b991eCfA.svg"
     }
   ]
 }
