@@ -9,5 +9,14 @@
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
   "keywords": ["plunderswap", "default"],
-  "tokens": []
+  "tokens": [
+        {
+      "name": "Zilliqa-bridged USDT token",
+      "symbol": "zUSDT",
+      "address": "0xxxx",
+      "chainId": 32769,
+      "decimals": 6,
+      "logoURI": "https://meta.viewblock.io/ZIL.zil1sxx29cshups269ahh5qjffyr58mxjv9ft78jqy/logo?t=dark"
+    },
+  ]
 }
