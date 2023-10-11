@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -17,6 +17,22 @@
       "chainId": 32769,
       "decimals": 6,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x1fD09F6701a1852132A649fe9D07F2A3b991eCfA.svg"
+    },
+    {
+      "name": "ZilStream",
+      "symbol": "STREAM",
+      "address": "0x7D2fF48c6b59229d448473D267a714d29F078D3E",
+      "chainId": 32769,
+      "decimals": 8,
+      "logoURI": "https://zilstream.sgp1.cdn.digitaloceanspaces.com/STREAM.png"
+    },
+    {
+      "name": "The GARY Token",
+      "symbol": "GARY",
+      "address": "0xc6F3dede529Af9D98a11C5B32DbF03Bf34272ED5",
+      "chainId": 32769,
+      "decimals": 4,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0xc6F3dede529Af9D98a11C5B32DbF03Bf34272ED5.svg"
     }
   ]
 }
