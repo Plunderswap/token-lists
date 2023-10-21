@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -40,7 +40,7 @@
       "address": "0xE9D47623bb2B3C497668B34fcf61E101a7ea4058",
       "chainId": 32769,
       "decimals": 4,
-      "logoURI": "https://plunderswap.github.io/token-lists/images/0xE9D47623bb2B3C497668B34fcf61E101a7ea4058.svg"
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0xE9D47623bb2B3C497668B34fcf61E101a7ea4058.png"
     }
   ]
 }
