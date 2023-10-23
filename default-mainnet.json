@@ -41,6 +41,14 @@
       "chainId": 32769,
       "decimals": 4,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0xE9D47623bb2B3C497668B34fcf61E101a7ea4058.png"
+    },
+    {
+      "name": "XCAD Network Token",
+      "symbol": "XCAD",
+      "address": "0xCcF3Ea256d42Aeef0EE0e39Bfc94bAa9Fa14b0Ba",
+      "chainId": 32769,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0xCcF3Ea256d42Aeef0EE0e39Bfc94bAa9Fa14b0Ba.svg"
     }
   ]
 }
