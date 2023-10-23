@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -49,6 +49,14 @@
       "chainId": 32769,
       "decimals": 18,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0xCcF3Ea256d42Aeef0EE0e39Bfc94bAa9Fa14b0Ba.svg"
+    },
+    {
+      "name": "Zoge Coin",
+      "symbol": "ZOGE",
+      "address": "0x01035e423c40a9ad4F6be2E6cC014EB5617c8Bd6",
+      "chainId": 32769,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x01035e423c40a9ad4F6be2E6cC014EB5617c8Bd6.png"
     }
   ]
 }
