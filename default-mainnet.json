@@ -4,28 +4,12 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
   "keywords": ["plunderswap", "default"],
   "tokens": [
-        {
-      "name": "Zilliqa-bridged USDT token",
-      "symbol": "zUSDT",
-      "address": "0x2274005778063684fbB1BfA96a2b725dC37D75f9",
-      "chainId": 32769,
-      "decimals": 6,
-      "logoURI": "https://plunderswap.github.io/token-lists/images/0x1fD09F6701a1852132A649fe9D07F2A3b991eCfA.svg"
-    },
-    {
-      "name": "ZilStream",
-      "symbol": "STREAM",
-      "address": "0x7D2fF48c6b59229d448473D267a714d29F078D3E",
-      "chainId": 32769,
-      "decimals": 8,
-      "logoURI": "https://plunderswap.github.io/token-lists/images/0x7D2fF48c6b59229d448473D267a714d29F078D3E.png"
-    },
     {
       "name": "The GARY Token",
       "symbol": "GARY",
@@ -43,6 +27,22 @@
       "logoURI": "https://plunderswap.github.io/token-lists/images/0xE9D47623bb2B3C497668B34fcf61E101a7ea4058.png"
     },
     {
+      "name": "ZilStream",
+      "symbol": "STREAM",
+      "address": "0x7D2fF48c6b59229d448473D267a714d29F078D3E",
+      "chainId": 32769,
+      "decimals": 8,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x7D2fF48c6b59229d448473D267a714d29F078D3E.png"
+    },
+    {
+      "name": "stZIL",
+      "symbol": "stZIL",
+      "address": "0x097C26F8A93009fd9d98561384b5014D64ae17C2",
+      "chainId": 32769,
+      "decimals": 12,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x097C26F8A93009fd9d98561384b5014D64ae17C2.svg"
+    },
+    {
       "name": "XCAD Network Token",
       "symbol": "XCAD",
       "address": "0xCcF3Ea256d42Aeef0EE0e39Bfc94bAa9Fa14b0Ba",
@@ -57,6 +57,14 @@
       "chainId": 32769,
       "decimals": 18,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x01035e423c40a9ad4F6be2E6cC014EB5617c8Bd6.png"
+    },        
+    {
+      "name": "Zilliqa-bridged USDT token",
+      "symbol": "zUSDT",
+      "address": "0x2274005778063684fbB1BfA96a2b725dC37D75f9",
+      "chainId": 32769,
+      "decimals": 6,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x1fD09F6701a1852132A649fe9D07F2A3b991eCfA.svg"
     }
   ]
 }
