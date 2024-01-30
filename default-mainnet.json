@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 12
+    "patch": 13
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -16,7 +16,7 @@
       "address": "0x241c677d9969419800402521ae87c411897a029f",
       "chainId": 32769,
       "decimals": 12,
-      "logoURI": "https://plunderswap.github.io/token-lists/images/0x241c677d9969419800402521ae87c411897a029f.svg"
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x241c677d9969419800402521ae87c411897a029f.png"
     },
     {
       "name": "The GARY Token",
