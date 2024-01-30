@@ -11,6 +11,14 @@
   "keywords": ["plunderswap", "default"],
   "tokens": [
     {
+      "name": "WEB3WAR Token",
+      "symbol": "FPS",
+      "address": "0x241c677d9969419800402521ae87c411897a029f",
+      "chainId": 32769,
+      "decimals": 12,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x241c677d9969419800402521ae87c411897a029f.svg"
+    },
+    {
       "name": "The GARY Token",
       "symbol": "GARY",
       "address": "0xc6F3dede529Af9D98a11C5B32DbF03Bf34272ED5",
