@@ -93,10 +93,10 @@
     {
       "name": "Stellar Void",
       "symbol": "VOID",
-      "address": "0xF43eB5dB60C5F780e59520607da39c38eD765115",
+      "address": "0x20Dd5D5B5d4C72676514A0eA1052d0200003d69D",
       "chainId": 32769,
       "decimals": 12,
-      "logoURI": "https://plunderswap.github.io/token-lists/images/0xF43eB5dB60C5F780e59520607da39c38eD765115.png"
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x20Dd5D5B5d4C72676514A0eA1052d0200003d69D.png"
     }
   ]
 }
