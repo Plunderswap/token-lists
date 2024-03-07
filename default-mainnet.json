@@ -35,6 +35,14 @@
       "logoURI": "https://plunderswap.github.io/token-lists/images/0xE9D47623bb2B3C497668B34fcf61E101a7ea4058.svg"
     },
     {
+      "name": "Kalijo",
+      "symbol": "SEED",
+      "address": "0xe64cA52EF34FdD7e20C0c7fb2E392cc9b4F6D049",
+      "chainId": 32769,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0xe64cA52EF34FdD7e20C0c7fb2E392cc9b4F6D049.svg"
+    },
+    {
       "name": "ZilStream",
       "symbol": "STREAM",
       "address": "0x7D2fF48c6b59229d448473D267a714d29F078D3E",
