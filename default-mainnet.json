@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 18
+    "patch": 19
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -13,10 +13,10 @@
     {
       "name": "WEB3WAR Token",
       "symbol": "FPS",
-      "address": "0x241c677d9969419800402521ae87c411897a029f",
+      "address": "0x241c677D9969419800402521ae87C411897A029f",
       "chainId": 32769,
       "decimals": 12,
-      "logoURI": "https://plunderswap.github.io/token-lists/images/0x241c677d9969419800402521ae87c411897a029f.png"
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x241c677D9969419800402521ae87C411897A029f.png"
     },
     {
       "name": "The GARY Token",
@@ -25,6 +25,14 @@
       "chainId": 32769,
       "decimals": 4,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0xc6F3dede529Af9D98a11C5B32DbF03Bf34272ED5.svg"
+    },
+    {
+      "name": "Horse with Hat",
+      "symbol": "HWH",
+      "address": "0xb524f0333a2db838a16c7032c776f61ceef1b77e",
+      "chainId": 32769,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0xb524f0333a2db838a16c7032c776f61ceef1b77e.svg"
     },
     {
       "name": "Lunr",
