@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 18
+    "patch": 19
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -97,6 +97,14 @@
       "chainId": 32769,
       "decimals": 12,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x20Dd5D5B5d4C72676514A0eA1052d0200003d69D.png"
+    },
+    {
+      "name": "MEOW",
+      "symbol": "MEOW",
+      "address": "0x7F70a752E87372f4270F123bba8d86E432C7fC1D",
+      "chainId": 32769,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x7F70a752E87372f4270F123bba8d86E432C7fC1D.png"
     }
   ]
 }
