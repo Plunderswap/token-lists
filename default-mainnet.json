@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 19
+    "patch": 20
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -105,6 +105,14 @@
       "chainId": 32769,
       "decimals": 18,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x7F70a752E87372f4270F123bba8d86E432C7fC1D.png"
+    },
+    {
+      "name": "TacoCat",
+      "symbol": "TACO",
+      "address": "0x2ae05bfc681d7872209a3bf1a9513bd4a48e66f0",
+      "chainId": 32769,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x2ae05bfc681d7872209a3bf1a9513bd4a48e66f0.png"
     }
   ]
 }
