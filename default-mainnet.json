@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 20
+    "patch": 21
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -113,6 +113,14 @@
       "chainId": 32769,
       "decimals": 18,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x2ae05bfc681d7872209a3bf1a9513bd4a48e66f0.png"
+    },
+  {
+      "name": "ZHIB",
+      "symbol": "ZHIB",
+      "address": "0xbfDe2156aF75a29d36614bC1F8005DD816Bd9200",
+      "chainId": 32769,
+      "decimals": 4,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0xbfDe2156aF75a29d36614bC1F8005DD816Bd9200.png"
     }
   ]
 }
