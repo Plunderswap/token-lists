@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 22
+    "patch": 23
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -129,6 +129,14 @@
       "chainId": 32769,
       "decimals": 4,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0xbfDe2156aF75a29d36614bC1F8005DD816Bd9200.png"
+    },
+    {
+      "name": "The Winners Circle",
+      "symbol": "HRSE",
+      "address": "0x63B991C17010C21250a0eA58C6697F696a48cdf3",
+      "chainId": 32769,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x63B991C17010C21250a0eA58C6697F696a48cdf3.png"
     }
   ]
 }
