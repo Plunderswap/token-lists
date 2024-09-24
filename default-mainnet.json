@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 23
+    "patch": 24
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -97,6 +97,14 @@
       "chainId": 32769,
       "decimals": 6,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x1fD09F6701a1852132A649fe9D07F2A3b991eCfA.svg"
+    },
+    {
+      "name": "Kalijo USD",
+      "symbol": "kUSD",
+      "address": "0xE9df5b4b1134A3aadf693Db999786699B016239e",
+      "chainId": 32769,
+      "decimals": 6,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0xE9df5b4b1134A3aadf693Db999786699B016239e.svg"
     },
     {
       "name": "Stellar Void",
