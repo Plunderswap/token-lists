@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 24
+    "patch": 25
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -73,6 +73,14 @@
       "chainId": 32769,
       "decimals": 18,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0xCcF3Ea256d42Aeef0EE0e39Bfc94bAa9Fa14b0Ba.svg"
+    },
+    {
+      "name": "Governance ZIL",
+      "symbol": "gZIL",
+      "address": "0x03A79429acc808e4261a68b0117aCD43Cb0FdBfa",
+      "chainId": 32769,
+      "decimals": 15,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x03A79429acc808e4261a68b0117aCD43Cb0FdBfa.svg"
     },
     {
       "name": "ZilPepe",
