@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 26
+    "patch": 27
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -138,6 +138,14 @@
       "decimals": 18,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x2ae05bfc681d7872209a3bf1a9513bd4a48e66f0.png"
     },
+    {
+      "name": "Gaucamole",
+      "symbol": "GAUC",
+      "address": "0x87f059cb6e481F9CD9a3F92D876DBDc68e30Ea3B",
+      "chainId": 32769,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/870tzu7j9qghcj0e6jejy16chbu0.png"
+    },  
   {
       "name": "ZHIB",
       "symbol": "ZHIB",
