@@ -4,7 +4,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 27
+    "patch": 28
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -153,6 +153,14 @@
       "chainId": 32770,
       "decimals": 18,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x63B991C17010C21250a0eA58C6697F696a48cdf3.png"
+    },
+    {
+      "name": "Plunderswap Staked ZIL",
+      "symbol": "pZIL",
+      "address": "0x7B213b5AEB896bC290F0cD8B8720eaF427098186",
+      "chainId": 32770,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x7B213b5AEB896bC290F0cD8B8720eaF427098186.png"
     }
   ]
 }
