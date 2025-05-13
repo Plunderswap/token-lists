@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 30
+    "patch": 31
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -27,15 +27,15 @@
       "logoURI": "https://plunderswap.github.io/token-lists/images/0xD8b73cEd1B16C047048f2c5EA42233DA33168198.png"
     },
     {
-      "name": "Ethereum",
-      "symbol": "zETH",
-      "address": "0x17D5af5658A24bd964984b36d28e879a8626adC3",
+      "name": "Zilliqa-bridged ETH token 2",
+      "symbol": "zETH2",
+      "address": "0x4204D70D27c80d8E1596806620be590d6A1b46A3",
       "chainId": 32769,
       "decimals": 18,
-      "logoURI": "https://plunderswap.github.io/token-lists/images/0x17D5af5658A24bd964984b36d28e879a8626adC3.png"
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x4204D70D27c80d8E1596806620be590d6A1b46A3.png"
     },
     {
-      "name": "Wrapped Bitcoin",
+      "name": "Zilliqa-bridged WBTC token",
       "symbol": "zWBTC",
       "address": "0x2938fF251Aecc1dfa768D7d0276eB6d073690317",
       "chainId": 32769,
