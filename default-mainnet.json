@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 31
+    "patch": 32
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -33,6 +33,14 @@
       "chainId": 32769,
       "decimals": 18,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x4204D70D27c80d8E1596806620be590d6A1b46A3.png"
+    },
+    {
+      "name": "PlunderSwap Staked ZIL",
+      "symbol": "pZIL",
+      "address": "0xc85b0db68467dede96A7087F4d4C47731555cA7A",
+      "chainId": 32769,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0xc85b0db68467dede96A7087F4d4C47731555cA7A.png"
     },
     {
       "name": "Zilliqa-bridged WBTC token",
