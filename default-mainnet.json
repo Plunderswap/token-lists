@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 32
+    "patch": 33
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -91,7 +91,7 @@
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x7D2fF48c6b59229d448473D267a714d29F078D3E.png"
     },
     {
-      "name": "stZIL",
+      "name": "stZIL legacy",
       "symbol": "stZIL",
       "address": "0x097C26F8A93009fd9d98561384b5014D64ae17C2",
       "chainId": 32769,
