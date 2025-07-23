@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 34
+    "patch": 35
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -204,6 +204,14 @@
       "chainId": 32769,
       "decimals": 18,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0x9e4E0F7A06E50DA13c78cF8C83E907f792DE54fd.png"
+    },
+    {
+      "name": "Amazing Pool (Avely)",
+      "symbol": "aZIL",
+      "address": "0x8a2afD8Fe79F8C694210eB71f4d726Fc8cAFdB31",
+      "chainId": 32769,
+      "decimals": 18,
+      "logoURI": "https://plunderswap.github.io/token-lists/images/0x8a2afD8Fe79F8C694210eB71f4d726Fc8cAFdB31.png"
     }
   ]
 }
