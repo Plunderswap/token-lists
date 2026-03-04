@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 36
+    "patch": 37
   },
   "tags": {},
   "logoURI": "https://plunderswap.com/logo.png",
@@ -25,14 +25,6 @@
       "name": "zUSDC",
       "symbol": "zUSDC",
       "address": "0xe59f97Fac09ee00AEEF320485ee45D5CcfbBC1E9",
-      "chainId": 32769,
-      "decimals": 6,
-      "logoURI": "https://plunderswap.github.io/token-lists/images/0xD8b73cEd1B16C047048f2c5EA42233DA33168198.png"
-    },
-    {
-      "name": "USDC",
-      "symbol": "USDC",
-      "address": "0xD8b73cEd1B16C047048f2c5EA42233DA33168198",
       "chainId": 32769,
       "decimals": 6,
       "logoURI": "https://plunderswap.github.io/token-lists/images/0xD8b73cEd1B16C047048f2c5EA42233DA33168198.png"
